@@ -19,7 +19,7 @@ expenditure: Individual medical expenditure by employees during year 2019
  b. Learn data types of all features
  c. See the statistical properties of the data.
 
-# 1. How many employees above 50 age smoke, what is their average expenditure on health management?
+ 1. How many employees above 50 age smoke, what is their average expenditure on health management?
 
  2. How many female employees did not consume alcohol daily. What is their proportion with respect to total female employees?
 
